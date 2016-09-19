@@ -1,5 +1,4 @@
-# titanic_survivor_exploration
-Titanic Survivor Exploration
+# Titanic Survivor Exploration
 I used Pandas and NumPy to answer the questions
 
 ### Question
